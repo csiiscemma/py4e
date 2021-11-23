@@ -1,8 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 23 2021
-@author: emma
-"""
+
 import re
 hand = open("regex_sum_1360653.txt")
 x=list()
